@@ -6,7 +6,7 @@ from PIL import Image
 import os
 
 
-img_name = "2.png"
+img_name = "icon.png"
 imgSourceDirectory = "image_editor/resources/"
 img = Image.open(imgSourceDirectory+img_name)
 
