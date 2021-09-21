@@ -1,6 +1,6 @@
 from PIL import Image
 
-im = Image.open(r"image_editor/2.png")
+im = Image.open(r"image_editor/resources/2.png")
 
 width, height = im.size
 
