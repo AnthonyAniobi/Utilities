@@ -12,7 +12,7 @@ img = Image.open(imgSourceDirectory+img_name)
 
 
 icon_name = "ic_launcher.png"
-output_directory = "image_editor/resources/app_output/mipmap"
+output_directory = "image_editor/resources/app_output/"
 
 folderAndSizes = {
     "mipmap-mdpi": 48,
